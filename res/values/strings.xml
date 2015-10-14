@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewImage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string-array name= "title">
+	    <item>club1</item>
+	    <item>club2</item>
+	    <item>club3</item>
+	    <item>club4</item>
+	    <item>club5</item>
+	</string-array>
+	
+	<string-array name= "descriptions">
+	    <item>des1</item>
+	    <item>des2</item>
+	    <item>des3</item>
+	    <item>des4</item>
+	    <item>des5</item>
+	</string-array>
+</resources>
